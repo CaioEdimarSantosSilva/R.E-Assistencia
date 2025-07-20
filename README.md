@@ -16,9 +16,8 @@ Este projeto foi desenvolvido como parte do meu portfólio, integrando conhecime
 
 ## 🖼️ Imagens do site
 
-![Página Inicial](assets/imagens/home.png)
-![Serviços](assets/imagens/servicos.png)
-![Contato](assets/imagens/contato.png)
+![Página Inicial](/assets/imagens/RE_assistencia.png)
+
 
 <sub>As imagens são apenas ilustrativas, adicione capturas reais da sua tela do site e salve-as na pasta `assets/imagens/`.</sub>
 
