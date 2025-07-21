@@ -1,4 +1,4 @@
-# 🛠️ R.E Assistência Técnica
+# R.E Assistência Técnica
 
 Site institucional responsivo para a **R.E Assistência Técnica**, especializada em manutenção de celulares, computadores e notebooks. Desenvolvido com foco em clareza, design moderno e compatibilidade com dispositivos móveis.
 
@@ -6,7 +6,7 @@ Site institucional responsivo para a **R.E Assistência Técnica**, especializad
 
 ---
 
-## 🧾 Sobre o projeto
+## Sobre o projeto
 
 O objetivo deste projeto é apresentar os serviços da **R.E Assistência Técnica** de forma clara, profissional e acessível. O site destaca os principais atendimentos oferecidos, formas de contato e localização.
 
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte do meu portfólio, integrando conhecime
 
 ---
 
-## 🖼️ Imagens do site
+## Imagens do site
 
 ![Página Inicial](/assets/imagens/RE_assistencia.png)
 
@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte do meu portfólio, integrando conhecime
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 | Tecnologia | Finalidade                         |
 |------------|------------------------------------|
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido como parte do meu portfólio, integrando conhecime
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 O layout do site foi construído utilizando **media queries** para adaptar a visualização em diferentes tamanhos de tela: desktop, tablet e mobile.
 
